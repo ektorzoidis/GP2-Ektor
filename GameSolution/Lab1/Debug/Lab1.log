@@ -1,0 +1,18 @@
+﻿  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\Mesh.cpp(76,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  SDLAudio.cpp
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\SDLAudio.cpp(57,15): warning C4018: '>': signed/unsigned mismatch
+  Shader.cpp
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\Shader.cpp(11,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  SkyBox.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\stb_image.c(193,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Lab1\stb_image.c(193,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Lab1.vcxproj -> E:\University\Programming 2 Coursework\GP2-Ektor\GameSolution\Debug\Lab1.exe
